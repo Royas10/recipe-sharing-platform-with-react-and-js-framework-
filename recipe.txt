@@ -1,0 +1,13 @@
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+
+npx create-react-app frontend
+
+
+cd frontend
+
+npm install web-vitals axios react-router-dom
+
+
+npm start
